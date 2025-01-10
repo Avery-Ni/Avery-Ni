@@ -1,6 +1,6 @@
 Avery Ni (Yue Ni)
 
-Data Analyst |  Consumer Behavior Researcher
+Consumer Behavior Researcher
 
 👋 Hello! I'm Avery, passionate about leveraging data to uncover insights in consumer behavior and decision-making processes.
 
@@ -8,12 +8,11 @@ Data Analyst |  Consumer Behavior Researcher
 
 Languages: R, Python, SQL
 
-Tools: SPSS, Excel, Qualtrics, MTurk
+Tools: SPSS, Qualtrics, MTurk
 
 Analysis: Regression, ANOVA, Structural Equation Modeling (SEM)
 
-Visualization: R, Excel
-
+Visualization: R
 
 
 🚀 Featured Projects
